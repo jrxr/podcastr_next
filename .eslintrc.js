@@ -29,6 +29,8 @@ module.exports = {
     'space-before-function-paren': 'off',
     'react/prop-types': 'off',
     'import/prefer-default-export': 'off',
-
+    '@typescript-eslint/no-shadow': 'off',
+    '@typescript-eslint/no-use-before-define': 'off',
+    'jsx-a11y/media-has-caption': 'off',
   }
 };
